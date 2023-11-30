@@ -1,1 +1,11 @@
 # oms-tsys-TA32-2311
+Ejercicio 1 [aquí](https://oriolmelo.github.io/oms-tsys-TA32-2311/Ej1/)  
+Ejercicio 2 [aquí](https://oriolmelo.github.io/oms-tsys-TA32-2311/Ej2/)  
+Ejercicio 3 [aquí](https://oriolmelo.github.io/oms-tsys-TA32-2311/Ej3/)  
+Ejercicio 4 [aquí](https://oriolmelo.github.io/oms-tsys-TA32-2311/Ej4/)  
+Ejercicio 5 [aquí](https://oriolmelo.github.io/oms-tsys-TA32-2311/Ej5/)  
+Ejercicio 6 [aquí](https://oriolmelo.github.io/oms-tsys-TA32-2311/Ej6/)  
+Ejercicio 7 [aquí](https://oriolmelo.github.io/oms-tsys-TA32-2311/Ej7/)  
+Ejercicio 8 [aquí](https://oriolmelo.github.io/oms-tsys-TA32-2311/Ej8/)  
+Ejercicio 9 [aquí](https://oriolmelo.github.io/oms-tsys-TA32-2311/Ej9/)  
+Ejercicio 10 [aquí](https://oriolmelo.github.io/oms-tsys-TA32-2311/Ej10/)
